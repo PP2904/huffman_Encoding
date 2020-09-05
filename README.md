@@ -3,7 +3,6 @@ Huffman encoding (Asm and C)
 University Project - Huffman Encoding
 
 
-
 This implementation compresses txt files.
 
 This project is a university project made by Tadeusz Czyzewicz, Manuel Pietsch, Peter Pfrommer. 
@@ -23,6 +22,8 @@ How-To:
 
 
 testfiles from: http://www.data-compression.info/Corpora/CalgaryCorpus/
+
+>> more Information  upon request (since copyright belongs partly to TU Munich) <<
 
 
 
