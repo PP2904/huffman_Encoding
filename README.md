@@ -23,7 +23,7 @@ How-To:
 
 testfiles from: http://www.data-compression.info/Corpora/CalgaryCorpus/
 
->> more Information  upon request (since copyright belongs partly to TU Munich) <<
+>> more Information  upon request (copyright belongs partly to TU Munich) <<
 
 
 
